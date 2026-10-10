@@ -292,8 +292,13 @@ Pages 和 Workers 功能完全一致，按需选择即可。
 - [@SajoLuo](https://github.com/SajoLuo) - Stash 响应格式修复 ([#66](https://github.com/Yu9191/wloc/pull/66))
 - [@SkywardLab](https://github.com/SkywardLab) - 扩展 WLOC 备用域名拦截 ([#90](https://github.com/Yu9191/wloc/pull/90))
 - [@beiming0000](https://github.com/beiming0000) - 逗号小数格式坐标丢失问题报告 ([#96](https://github.com/Yu9191/wloc/issues/96))
+- [@Yu9191](https://github.com/Yu9191) - 项目原作者
 
 ---
+
+> 本仓库为项目镜像备份，原作者 Yu9191，原仓库临时下架。
+> 本仓库仅做存档备份，本人并非项目原作者，所有代码遵循上游 AGPL-3.0 开源协议。
+
 
 ## 许可证
 
